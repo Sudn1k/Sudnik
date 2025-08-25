@@ -46,7 +46,7 @@
 
 | Категория         | Навыки |
 |-------------------|--------|
-| **Языки**         | C#, C++, SQL, HTML, CSS |
+| **Языки**         | C#, C++, SQL, HTML, CSS, PHP|
 | **Тестирование**  | Ручное, API, Автоматизация (Selenium WebDriver, NUnit, MSTest) |
 | **Инструменты**   | Postman, Fiddler, Charles, Swagger, Git, Bash, Chrome DevTools |
 | **Базы данных**   | MySQL, MS SQL |

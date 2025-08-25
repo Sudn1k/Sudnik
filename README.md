@@ -4,6 +4,7 @@
   📧 <a href="mailto:sudniye@mail.ru">sudniye@mail.ru</a> 
 </p>
 
+<!-- Блок с логотипами — теперь без лишних пробелов в src -->
 <div style="
   display: flex;
   justify-content: center;
@@ -14,7 +15,7 @@
   width: 100%;
   box-sizing: border-box;
 ">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" style="width: 60px; height: 60px; object-fit: contain;" />
+  <img src="https://avatars.dzeninfra.ru/get-zen_doc/3483777/pub_62cd47ab076b2b5f4a1ef98e_62d06f6d996e500f07b8b88e/scale_1200" alt="C#" style="width: 60px; height: 60px; object-fit: contain;" />
   <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" style="width: 60px; height: 60px; object-fit: contain;" />
   <img src="https://www.itsdelta.ru/upload/iblock/d41/d4164c9d28b9e2c11e347b5e477ab831.png" alt="Postman" style="width: 60px; height: 60px; object-fit: contain;" />
   <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" alt="Selenium" style="width: 60px; height: 60px; object-fit: contain;" />
@@ -110,4 +111,3 @@ Stepik | Уровень BASIC
 - 🎯 Хочу стать **QA-инженером**, который влияет на качество продукта с первого этапа разработки
 
 ---
-

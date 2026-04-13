@@ -1,91 +1,114 @@
 <h1 align="center">Привет! 👋 Я Егор Судник</h1>
 <p align="center">
-  <strong>Стажер на позицию QA-инженера</strong><br>
-  📧 <a href="mailto:sudniye@mail.ru">sudniye@mail.ru</a> 
+  <strong>QA Engineer Intern / Junior QA</strong><br>
+  📧 <a href="mailto:sudniye@mail.ru">sudniye@mail.ru</a> • 📍 Санкт-Петербург
 </p>
 
-
-<div style="
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 20px;
-  flex-wrap: wrap;
-  padding: 20px;
-  width: 100%;
-  box-sizing: border-box;
-">
-  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" alt="MySQL" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://www.itsdelta.ru/upload/iblock/d41/d4164c9d28b9e2c11e347b5e477ab831.png" alt="Postman" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" alt="Selenium" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHXk8H8RGWMqJ_ym7gNhCCy12aWc764ildjQ&s" alt="NUnit" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxj7kCzMIlSC20SNjaJf9GmG15ocnF.zbBRgxMSlB7Ejh6FbgNzxLvZOoW7N3ML56fn3m5Z4MO.M8pYrCFVKIhqM-&format=source" alt="Git" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" alt="Linux" style="width: 60px; height: 60px; object-fit: contain;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" alt="Visual Studio" style="width: 60px; height: 60px; object-fit: contain;" />
-</div>
+<p align="center">
+  <a href="https://github.com/Sudn1k">GitHub</a> • 
+  <a href="https://disk.yandex.ru/i/12qYK9WUvwOAXw">Сертификат QA</a>
+</p>
 
 ---
 
-### 🧠 Обо мне
+## 🧠 Обо мне
 
-Я — студент 4 курса **СПбПУ (ИСПО)** по специальности *«Информационные системы и программирование»*.  
-Глубоко интересуюсь качеством ПО, процессами тестирования и обеспечением надёжности приложений. Прошёл курс **[«Тестирование ПО с нуля»](https://stepik.org/course/171826/syllabus)** на Stepik, где получил практические навыки ручного, API и баз данных.
+Студент 4 курса **СПбПУ (ИСПО)** по специальности *«Информационные системы и программирование»*.  
+Фокусируюсь на тестировании ПО: ручное, API и автоматизация. Понимаю процессы разработки, архитектуру приложений и интеграции с внешними сервисами и оборудованием.
 
-Участвовал в **разработке веб-системы для приёма граждан**, где занимался:
-- проектированием БД (нормализация, внешние ключи),
-- версткой интерфейса (HTML, CSS),
-- серверной логикой (PHP),
-- тестированием функциональности.
-
-Готов применять свои знания на практике и развиваться как **универсальный QA-инженер**.
+Есть практический опыт тестирования **веб, API и систем с аппаратной интеграцией (АЗС, Bluetooth-устройства)**.  
+Стремлюсь развиваться как универсальный QA-инженер с уклоном в automation.
 
 ---
 
-### 🛠️ Навыки
+## 🛠️ Технологии и инструменты
 
-| Категория         | Навыки |
-|-------------------|--------|
-| **Языки**         | C#, C++, SQL, HTML, CSS, PHP|
-| **Тестирование**  | Ручное, API, Автоматизация (Selenium WebDriver, NUnit, MSTest) |
-| **Инструменты**   | Postman, Fiddler, Charles, Swagger, Git, Bash, Chrome DevTools |
-| **Базы данных**   | MySQL, MS SQL |
-| **IDE**           | Visual Studio, VS Code, Android Studio |
-| **Soft Skills**   | Аналитика, проактивность, командная работа, пунктуальность, адаптивность |
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="55"/>
+  <img src="https://www.itsdelta.ru/upload/iblock/d41/d4164c9d28b9e2c11e347b5e477ab831.png" width="55"/>
+  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="55"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="55"/>
+</p>
+
+**Тестирование:**  
+- Ручное тестирование (чек-листы, тест-кейсы, баг-репорты)  
+- API тестирование (Postman, Swagger)  
+- Автоматизация: Selenium WebDriver + C# (NUnit, MSTest)
+
+**Инструменты:**  
+Postman, Fiddler, Charles, Swagger, Chrome DevTools, Git, Bash, Docker
+
+**Базы данных:**  
+MySQL, MS SQL (написание SQL-запросов, проверка данных)
+
+**Языки:**  
+C#, C++, SQL, HTML, CSS, JavaScript (базово)
 
 ---
 
-### 📚 Образование и курсы
+## 💼 Опыт
+
+### ⛽ Система управления платежами АЗС (производственная практика)  
+**2026**
+
+В рамках производственной практики разработал и протестировал функциональность системы управления платежами в программном комплексе управления АЗС с функциями самообслуживания. Реализовал обработку оплат (СБП, POS-терминал), возвратов и отмен транзакций, интеграцию с внешними API, а также взаимодействие с контроллерами и аппаратной частью станции (запуск заправки после оплаты).
+
+Провёл комплексное тестирование системы: API (Postman), функциональное и интеграционное тестирование, проверка сквозных сценариев и взаимодействия модулей. Тестировал работу с реальным оборудованием АЗС.
+
+---
+
+### 📱 Мобильное приложение для тарировочной станции «Эталон» (дипломный проект)  
+**2026 — настоящее время**
+
+Разрабатываю кроссплатформенное мобильное приложение для удалённого управления станцией по **Bluetooth (BLE)**.
+
+Тестирование включает:
+- проверку работы через эмуляторы  
+- тестирование на физических мобильных устройствах  
+- тестирование взаимодействия с реальным оборудованием по Bluetooth  
+- проверку стабильности соединения и обработки ошибок связи  
+
+---
+
+### 🖥️ Веб-система приёма граждан  
+**2025**
+
+Участвовал в разработке веб-приложения:
+- проектирование и нормализация базы данных  
+- разработка интерфейса (HTML, CSS)  
+- серверная логика (PHP)  
+- тестирование функциональности и пользовательских сценариев  
+
+---
+
+## 📚 Образование
 
 🎓 **СПбПУ (ИСПО)**  
-*Информационные системы и программирование*  
-2022 — 2026 (4 курс)
+Информационные системы и программирование  
+2022 — 2026  
 
-📘 **Курс: "Тестирование ПО с нуля"**  
-Stepik | Уровень BASIC  
-[Сертификат](https://disk.yandex.ru/i/12qYK9WUvwOAXw) 
+📘 **Тестирование ПО с нуля (Stepik)**  
+- тест-дизайн  
+- тестирование API, веб и мобильных приложений  
+- SQL, Git, основы автоматизации  
 
-🧊 **Зимний студенческий цех 2025 — Корпоративная академия Росатом**  
-Компетенция: *Кибербезопасность*  
-- Работа с командной строкой Linux (bash)
-- Решение CTF-задач (веб, стеганография, криптография)
-- Основы пентеста
+🧊 **Росатом — Зимний студенческий цех (Кибербезопасность)**  
+- Linux (bash)  
+- CTF (web, crypto, stego)  
+- основы пентеста  
+
+---
+
+## 💡 Дополнительно
+
+- Понимание клиент-серверной архитектуры  
+- Опыт работы с REST API  
+- Работа с логами и сетевым трафиком  
+- Базовое понимание работы аппаратных систем и IoT  
 
 ---
 
-### 💼 Опыт
+## 🚀 Цель
 
-#### 🖥️ Разработка веб-системы приёма граждан  
-**Май-Июнь 2025**  
-- Проектирование и нормализация базы данных
-- Верстка интерфейса: HTML, CSS
-- Реализация серверной логики на PHP
-- Тестирование функциональности, составление отчётов
-
-#### 🔍 Практика по тестированию ПО  
-**2025**  
-- Разработка чек-листов, тест-кейсов, баг-репортов
-- Автоматизация тестов: **Selenium WebDriver + C# + NUnit**
-- Тестирование API через **Postman**, анализ трафика в **Fiddler** и **Charles**
-- Работа с документацией **Swagger**
-
----
+Получить позицию **QA Engineer Intern / Junior QA**, развиваться в автоматизации тестирования и участвовать в разработке качественных и надёжных продуктов.

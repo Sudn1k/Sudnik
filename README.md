@@ -1,17 +1,16 @@
 # Hello!
 
 <div align="center">
-
-
  <img src="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg"/> 
+ 
 </div>
 
 Я —  начинающий QA-инженер с теоретической базой и практическим опытом тестирования в коммерческих проектах. Владею современным стеком инструментов для разработки и тестирования, внимателен к деталям и ориентирован на качество. Готов применять знания на практике и о развиваться в сфере  тестирования.
 
 ## My CV 
 
- <img src="https://github.com/Sudn1k/Sudnik/blob/main/photo_2026-04-17_20-11-28.jpg"/> 
-[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+ <img align="center" src="https://github.com/Sudn1k/Sudnik/blob/main/photo_2026-04-17_20-11-28.jpg"/> 
+[Ссылка на резюме](https://ссылочку_сюда](https://disk.yandex.ru/i/dkcxGZBbiQ_p-g)
 
 ## Портфолио 
 - Тестовая документация
@@ -52,8 +51,5 @@
 
 ## Мои контакты
 
-[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
-[![Website: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
-[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/b1smark1)
 

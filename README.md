@@ -10,6 +10,7 @@
 
 ## My CV 
 
+ <img src="https://github.com/Sudn1k/Sudnik/blob/main/photo_2026-04-17_20-11-28.jpg"/> 
 [Здесь будет сслыка на резюме](https://ссылочку_сюда)
 
 ## Портфолио 

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+<a href="https://i.pinimg.com/736x/7c/43/3e/7c433e7273948204d875ee5cdcf218ff.jpg"   /></a>
   
 </div>
 

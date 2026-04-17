@@ -9,19 +9,13 @@
 
 ## My CV 
 
- <img align="center" src="https://github.com/Sudn1k/Sudnik/blob/main/photo_2026-04-17_20-11-28.jpg"/> 
-[Ссылка на резюме](https://ссылочку_сюда](https://disk.yandex.ru/i/dkcxGZBbiQ_p-g)
+ <img align="center" src="https://github.com/Sudn1k/Sudnik/blob/main/photo_2026-04-17_20-11-28.jpg" width="500" height="1000"/> 
+[Ссылка на резюме](https://disk.yandex.ru/i/dkcxGZBbiQ_p-g)
 
 ## Портфолио 
-- Тестовая документация
-  -  [Чек-листы](https://ссылочку_сюда)
-  -  [Тест-кейсы](https://ссылочку_сюда)
-  -  [Mind maps](https://ссылочку_сюда)
-  -  [Баг-репорты](https://ссылочку_сюда)
-- Коллекция в Postman 
-  -  [Название проекта](https://ссылочку_сюда)
-- SQL запросы 
-  -  [Название проектв](https://ссылочку_сюда)
+  -  [Чек-листы и тест кейсы](https://disk.yandex.ru/i/wQph4h2h0-s0hA)
+  -  [Баг-репорты](https://disk.yandex.ru/i/1I0e01yH7YBQQQ)
+  -  [Автоматизированное тестирование](https://disk.yandex.ru/i/rLa11y0BhwTTNA)
   
 
 ## Инструменты и технологии

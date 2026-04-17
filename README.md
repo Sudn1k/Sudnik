@@ -1,114 +1,113 @@
-<h1 align="center">Привет! 👋 Я Егор Судник</h1>
-<p align="center">
-  <strong>QA Engineer Intern / Junior QA</strong><br>
-  📧 <a href="mailto:sudniye@mail.ru">sudniye@mail.ru</a> • 📍 Санкт-Петербург
+# Приветствие  🦕
+
+<div align="center">
+
+![GIF](https://media.giphy.com/media/l0K4n42JVSqqUvAQg/giphy.gif)
+  
+</div>
+
+Блок о себе. Здесь можно написать все то, что описывает вас как специалиста 
+
+_Пример_ 
+
+_Меня зовут Роберто. Я QA Enginner - cильный специалист в области средств массовой информации и коммуникаций со степенью бакалавра технологий в области компьютерных наук и инженерии. Я специализируюсь на тестировании API и мобильных приложений_
+
+## My CV 
+
+[Здесь будет сслыка на резюме](https://ссылочку_сюда)
+
+## Портфолио 
+- Тестовая документация
+  -  [Чек-листы](https://ссылочку_сюда)
+  -  [Тест-кейсы](https://ссылочку_сюда)
+  -  [Mind maps](https://ссылочку_сюда)
+  -  [Баг-репорты](https://ссылочку_сюда)
+- Коллекция в Postman 
+  -  [Название проекта](https://ссылочку_сюда)
+- SQL запросы 
+  -  [Название проектв](https://ссылочку_сюда)
+  
+
+## Инструменты и технологии
+Блок для инструментов. Вы можете использовать мои иконки или создать папку у себя в проекте
+
+
+<p align="left">
+<a href="https://qase.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Qase.io.png" alt="Qase.io" width="50" height="50" />
+</a>
+<a href="https://testit.software/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestIT.png" alt="TestIT" width="50" height="50" />
+</a>
+<a href="https://www.gurock.com/testrail">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
+</a>
+<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
+</a>
+<a href="https://www.charlesproxy.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+</a>
+<a href="https://www.telerik.com/fiddler">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+</a>
+<a href="https://proxyman.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" /> 
+</a>
+<a href="https://grafana.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
+</a>
+<a href="https://firebase.google.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Firebase.png" alt="Firebase" width="50" height="50" /> 
+</a>
+<a href="https://sentry.io/welcome/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Sentry.png" alt="Sentry" width="50" height="50" />
+</a>
+<a href="https://amplitude.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Amplitude.png" alt="Sentry" width="90" height="50" />
+</a>
+<a href="https://codemagic.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Codemagic.png" alt="Codemagic" width="50" height="50" /> 
+</a>
+<a href="https://www.jetbrains.com/teamcity/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
+</a>
+<a href="https://developer.apple.com/testflight/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
+</a> 
+<a href="https://developer.apple.com/xcode/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
+</a> 
+<a href="https://developer.android.com/studio">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
+</a>
+<a href="https://figma.com">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
+</a>
+<a href="https://zeplin.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zeplin.png" alt="Zeplin" width="50" height="50" /> 
+</a>
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
+</a>
+<a href="https://www.postman.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+</a>
+<a href="https://swagger.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
+</a>
+<a href="https://localizely.com/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/localizely.png" alt="Localizely" width="100" height="50" />
+</a>
+<a href="https://dbeaver.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/DBeaver.png" alt="DBeaver" width="50" height="50" />
+</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Sudn1k">GitHub</a> • 
-  <a href="https://disk.yandex.ru/i/12qYK9WUvwOAXw">Сертификат QA</a>
-</p>
+## Мои контакты
 
----
+[![Linkedin: jennaqa](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/jennaqa)
+[![Website: jennaqa](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://qajenna.com/)
+[![Instagram: jennaqa](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/qa.jenna/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/jennaisakova)
 
-## 🧠 Обо мне
-
-Студент 4 курса **СПбПУ (ИСПО)** по специальности *«Информационные системы и программирование»*.  
-Фокусируюсь на тестировании ПО: ручное, API и автоматизация. Понимаю процессы разработки, архитектуру приложений и интеграции с внешними сервисами и оборудованием.
-
-Есть практический опыт тестирования **веб, API и систем с аппаратной интеграцией (АЗС, Bluetooth-устройства)**.  
-Стремлюсь развиваться как универсальный QA-инженер с уклоном в automation.
-
----
-
-## 🛠️ Технологии и инструменты
-
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/ru/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" width="55"/>
-  <img src="https://www.itsdelta.ru/upload/iblock/d41/d4164c9d28b9e2c11e347b5e477ab831.png" width="55"/>
-  <img src="https://blog.skillfactory.ru/wp-content/uploads/2023/02/1_ihb6hdmaw48vjtbsjyhbzg-1830140.png" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/1200px-Visual_Studio_Icon_2022.svg.png" width="55"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/800px-Tux.svg.png" width="55"/>
-</p>
-
-**Тестирование:**  
-- Ручное тестирование (чек-листы, тест-кейсы, баг-репорты)  
-- API тестирование (Postman, Swagger)  
-- Автоматизация: Selenium WebDriver + C# (NUnit, MSTest)
-
-**Инструменты:**  
-Postman, Fiddler, Charles, Swagger, Chrome DevTools, Git, Bash, Docker
-
-**Базы данных:**  
-MySQL, MS SQL (написание SQL-запросов, проверка данных)
-
-**Языки:**  
-C#, C++, SQL, HTML, CSS, JavaScript (базово)
-
----
-
-## 💼 Опыт
-
-### ⛽ Система управления платежами АЗС (производственная практика)  
-**2026**
-
-В рамках производственной практики разработал и протестировал функциональность системы управления платежами в программном комплексе управления АЗС с функциями самообслуживания. Реализовал обработку оплат (СБП, POS-терминал), возвратов и отмен транзакций, интеграцию с внешними API, а также взаимодействие с контроллерами и аппаратной частью станции (запуск заправки после оплаты).
-
-Провёл комплексное тестирование системы: API (Postman), функциональное и интеграционное тестирование, проверка сквозных сценариев и взаимодействия модулей. Тестировал работу с реальным оборудованием АЗС.
-
----
-
-### 📱 Мобильное приложение для тарировочной станции «Эталон» (дипломный проект)  
-**2026 — настоящее время**
-
-Разрабатываю кроссплатформенное мобильное приложение для удалённого управления станцией по **Bluetooth (BLE)**.
-
-Тестирование включает:
-- проверку работы через эмуляторы  
-- тестирование на физических мобильных устройствах  
-- тестирование взаимодействия с реальным оборудованием по Bluetooth  
-- проверку стабильности соединения и обработки ошибок связи  
-
----
-
-### 🖥️ Веб-система приёма граждан  
-**2025**
-
-Участвовал в разработке веб-приложения:
-- проектирование и нормализация базы данных  
-- разработка интерфейса (HTML, CSS)  
-- серверная логика (PHP)  
-- тестирование функциональности и пользовательских сценариев  
-
----
-
-## 📚 Образование
-
-🎓 **СПбПУ (ИСПО)**  
-Информационные системы и программирование  
-2022 — 2026  
-
-📘 **Тестирование ПО с нуля (Stepik)**  
-- тест-дизайн  
-- тестирование API, веб и мобильных приложений  
-- SQL, Git, основы автоматизации  
-
-🧊 **Росатом — Зимний студенческий цех (Кибербезопасность)**  
-- Linux (bash)  
-- CTF (web, crypto, stego)  
-- основы пентеста  
-
----
-
-## 💡 Дополнительно
-
-- Понимание клиент-серверной архитектуры  
-- Опыт работы с REST API  
-- Работа с логами и сетевым трафиком  
-- Базовое понимание работы аппаратных систем и IoT  
-
----
-
-## 🚀 Цель
-
-Получить позицию **QA Engineer Intern / Junior QA**, развиваться в автоматизации тестирования и участвовать в разработке качественных и надёжных продуктов.

@@ -50,13 +50,32 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 <a href="https://swagger.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
 </a>
-<a>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Swagger" width="50" height="50" />
+<a href="https://www.google.com/chrome/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/960px-Google_Chrome_icon_%28February_2022%29.svg.png" alt="Chrome DevTools" width="50" height="50" />
 </a>
-<a href="https://swagger.io/](https://www.wireshark.org/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Swagger" width="50" height="50" />
-</a>  
+<a href="https://www.wireshark.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wireshark_icon.svg/250px-Wireshark_icon.svg.png" alt="Wireshark" width="50" height="50" />
+</a>
+<a href="https://code.visualstudio.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="50" height="50" />
+</a>
+<a href="https://visualstudio.microsoft.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Visual_Studio_2013_Logo.svg/512px-Visual_Studio_2013_Logo.svg.png" alt="Visual Studio" width="50" height="50" />
+</a>
+<a href="https://www.linux.org/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/250px-Tux.svg.png" alt="Linux" width="50" height="50" />
+</a>
+<a href="https://git-scm.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Git" width="50" height="50" />
+</a>
+<a href="https://www.docker.com/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Docker_Logo_2017-11-21.svg/512px-Docker_Logo_2017-11-21.svg.png" alt="Docker" width="50" height="50" />
+</a>
+<a href="https://reactnative.dev/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" alt="React Native" width="50" height="50" />
+</a>
 </p>
+
 
 ## Мои контакты
 

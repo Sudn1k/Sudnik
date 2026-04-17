@@ -31,7 +31,7 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 ## Инструменты и технологии
 
 
-<p align="center" style="white-space: nowrap;">
+<p align="center">
 <a href="https://www.figma.com/"><img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="40" height="40" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" /></a>
 <a href="https://developer.android.com/studio"><img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="40" height="40" /></a>
